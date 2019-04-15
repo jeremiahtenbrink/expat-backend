@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Api for Expat Journal. A web application for storing and sharing user experiences while traveling.",
   "title": "Expat Api",
-  "url": "https://expat-backend.herokuapp.com/",
-  "sampleUrl": "https://expat-backend.herokuapp.com/",
+  "url": "https://expat-backend.herokuapp.com",
+  "sampleUrl": "https://expat-backend.herokuapp.com",
   "template": {
     "withGenerator": true,
     "withCompare": true
