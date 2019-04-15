@@ -1,14 +1,10 @@
 {
-  "name": "MyHouse",
+  "name": "Expat Journal",
   "version": "1.0.0",
-  "description": "Api for MyHouse project storing and getting information from the sqlite database.",
-  "title": "Api Docs",
+  "description": "Api for Expat Journal. A web application for storing and sharing user experiences while traveling.",
+  "title": "Expat Api",
   "url": "https://expat-backend.herokuapp.com/",
   "sampleUrl": "https://expat-backend.herokuapp.com/",
-  "header": {
-    "title": "Api",
-    "content": ""
-  },
   "template": {
     "withGenerator": true,
     "withCompare": true
@@ -17,7 +13,7 @@
   "apidoc": "0.3.0",
   "generator": {
     "name": "apidoc",
-    "time": "2019-04-15T02:51:34.908Z",
+    "time": "2019-04-15T02:54:39.572Z",
     "url": "http://apidocjs.com",
     "version": "0.17.7"
   }

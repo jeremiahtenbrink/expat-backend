@@ -1,6 +1,6 @@
-# MyHouse v1.0.0
+# Expat Journal v1.0.0
 
-Api for MyHouse project storing and getting information from the sqlite database.
+Api for Expat Journal. A web application for storing and sharing user experiences while traveling.
 
 - [Comments](#comments)
 	- [Create a comment.](#create-a-comment.)
