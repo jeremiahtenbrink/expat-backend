@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Api for MyHouse project storing and getting information from the sqlite database.",
   "title": "Api Docs",
-  "url": "http://localhost:3200",
-  "sampleUrl": "http://localhost:3200",
+  "url": "https://expat-backend.herokuapp.com/",
+  "sampleUrl": "https://expat-backend.herokuapp.com/",
   "header": {
     "title": "Api",
     "content": ""
@@ -17,7 +17,7 @@
   "apidoc": "0.3.0",
   "generator": {
     "name": "apidoc",
-    "time": "2019-04-15T02:38:18.928Z",
+    "time": "2019-04-15T02:51:34.908Z",
     "url": "http://apidocjs.com",
     "version": "0.17.7"
   }
